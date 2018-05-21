@@ -11,20 +11,20 @@ title ="Video List";
 
 videoList=[
   {
-    name:'item1',
-    slug:'item1'
+    name:"item 1",
+    slug:"item-1"
   },
   {
-    name:'item2',
-    slug:'item2'
+    name:"item 2",
+    slug:"item-2"
   },
   {
-    name:'item3',
-    slug:'item3'
+    name:"item 3",
+    slug:"item-3"
   },
   {
-    name:'item4',
-    slug:'item4'
+    name:"item 4",
+    slug:'item-4'
   },
 
 ]
